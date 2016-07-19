@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_translate">ПЕРЕВЕСТИ</string>
+    <string name="app_choice_language">Выбор языка</string>
+
+    <string name="app_input_text">Введите текст</string>
+    <string name="offline_mode">Offline режим</string>
+    <string name="online_mode">Online режим</string>
+
+    <string name="no_result">Нет результатов</string>
+    <string name="enter_text">Введите текст для перевода</string>
+    <string name="input_translate_result">Введите результат перевода</string>
+    <string name="input_correct_translation">Введите правильный перевод</string>
+</resources>
