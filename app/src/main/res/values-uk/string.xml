@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Translator</string>
     <string name="app_translate">ПЕРЕКЛАСТИ</string>
     <string name="app_choice_language">Вибір язика</string>
 
@@ -11,4 +12,33 @@
     <string name="enter_text">Введіть текст для перекладу</string>
     <string name="input_translate_result">Введіть результат перекладу</string>
     <string name="input_correct_translation">Введіть правильний переклад</string>
+
+    <string-array name="language_code">
+        <item>auto</item>
+        <item>en</item>
+        <item>ru</item>
+        <item>et</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>uk</item>
+        <item>ro</item>
+        <item>pl</item>
+    </string-array>
+
+    <string-array name="language_name">
+        <item>Auto select</item>
+        <item>English</item>
+        <item>Russian</item>
+        <item>Estonian</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Ukrainian</item>
+        <item>Romanian</item>
+        <item>Polish</item>
+    </string-array>
+
+    <string-array name="language_to_language">
+        <item>English -> Russian</item>
+        <item>Russian -> English</item>
+    </string-array>
 </resources>
